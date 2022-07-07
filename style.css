@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  box-sizing: border-box;
+  width: 400px;
+  height: 300px;
+  overflow: scroll;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+}
+button {
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.scrol {
+  width: 100%;
+  height: 20px;
+  background-color: aquamarine;
+}
+.protsent{
+  text-align: center;
+}
